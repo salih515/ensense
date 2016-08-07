@@ -1,0 +1,258 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Karim_Benzema	rdf:type	yago:CausalAgent100007347 ,
+		yago:Player110439851 ,
+		yago:Forward110105733 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Karim_Benzema	rdf:type	wikidata:Q937857 .
+@prefix ns4:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Karim_Benzema	rdf:type	ns4:Agent .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Karim_Benzema	rdf:type	dbo:SoccerPlayer ,
+		<http://dbpedia.org/class/yago/RealMadridC.F.Players> ,
+		yago:PeopleFromLyon ,
+		yago:FrenchExpatriateFootballers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Karim_Benzema	rdf:type	umbel-rc:SoccerPlayer ,
+		yago:ExpatriateFootballersInSpain .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Karim_Benzema	rdf:type	owl:Thing .
+@prefix schema:	<http://schema.org/> .
+dbr:Karim_Benzema	rdf:type	schema:Person ,
+		dbo:Athlete ,
+		yago:BasketballPlayer109842047 ,
+		yago:FrenchFootballers ,
+		yago:FranceInternationalFootballers ,
+		yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActor ,
+		dbo:Agent ,
+		ns4:NaturalPerson ,
+		yago:Ligue1Players ,
+		yago:OlympiqueLyonnaisPlayers ,
+		yago:LivingThing100004258 ,
+		wikidata:Q215627 ,
+		yago:LivingPeople ,
+		yago:Person100007846 ,
+		yago:Whole100003553 ,
+		yago:LaLigaFootballers ,
+		yago:AssociationFootballForwards .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Karim_Benzema	rdf:type	foaf:Person ,
+		yago:FootballPlayer110101634 ,
+		yago:FranceYouthInternationalFootballers ,
+		yago:Contestant109613191 ,
+		yago:YagoLegalActorGeo ,
+		yago:KabylePeople ,
+		yago:UEFAEuro2008Players ,
+		yago:FranceUnder-21InternationalFootballers ,
+		umbel-rc:Athlete ,
+		dbo:Person ,
+		yago:FrenchPeopleOfAlgerianDescent ,
+		yago:Object100002684 ,
+		yago:Athlete109820263 ,
+		wikidata:Q5 ,
+		yago:Organism100004475 ;
+	dbo:birthPlace	dbr:France_national_football_team ,
+		dbr:Lyon .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Karim_Benzema	dbp:birthPlace	"Lyon, France"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Karim_Benzema	dbo:birthDate	"1987-12-19"^^xsd:date .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Karim_Benzema	dct:subject	dbc:France_youth_international_footballers ,
+		dbc:France_under-21_international_footballers ,
+		dbc:UEFA_Euro_2012_players ,
+		<http://dbpedia.org/resource/Category:1987_births> ,
+		dbc:French_footballers ,
+		<http://dbpedia.org/resource/Category:Real_Madrid_C.F._players> ,
+		dbc:French_expatriates_in_Spain ,
+		dbc:France_international_footballers ,
+		dbc:La_Liga_players ,
+		dbc:French_people_of_Kabyle_descent ,
+		dbc:French_people_of_Algerian_descent ,
+		dbc:UEFA_Euro_2008_players ,
+		dbc:Association_football_forwards ,
+		dbc:Living_people ,
+		dbc:Olympique_Lyonnais_players ,
+		dbc:French_Muslims ,
+		dbc:Expatriate_footballers_in_Spain ,
+		dbc:French_expatriate_footballers ,
+		<http://dbpedia.org/resource/Category:2014_FIFA_World_Cup_players> ,
+		dbc:Sportspeople_from_Lyon ,
+		dbc:Ligue_1_players ;
+	dbo:wikiPageID	4629012 ;
+	dbo:wikiPageRevisionID	683562455 ;
+	dbo:wikiPageExternalLink	<http://www.benzema.com/> .
+@prefix ns14:	<http://www.realmadrid.com/en/football/squad/> .
+dbr:Karim_Benzema	dbo:wikiPageExternalLink	ns14:karim-benzema .
+@prefix ns15:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Karim_Benzema	dbp:wordnet_type	ns15:synset-soccer_player-noun-1 ;
+	owl:sameAs	wikidata:Q1912 ,
+		<http://rdf.freebase.com/ns/m.0cdgm5> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Karim_Benzema	owl:sameAs	dbpedia-nl:Karim_Benzema .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Karim_Benzema	owl:sameAs	dbpedia-cs:Karim_Benzema .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Karim_Benzema	owl:sameAs	dbpedia-fr:Karim_Benzema .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Karim_Benzema	owl:sameAs	dbpedia-pl:Karim_Benzema .
+@prefix dbpedia-el:	<http://el.dbpedia.org/resource/> .
+dbr:Karim_Benzema	owl:sameAs	dbpedia-el:Καρίμ_Μπενζεμά .
+@prefix dbpedia-ja:	<http://ja.dbpedia.org/resource/> .
+dbr:Karim_Benzema	owl:sameAs	dbpedia-ja:カリム・ベンゼマ .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Karim_Benzema	owl:sameAs	dbpedia-es:Karim_Benzema .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Karim_Benzema	owl:sameAs	dbpedia-id:Karim_Benzema .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Karim_Benzema	owl:sameAs	yago-res:Karim_Benzema .
+@prefix dbpedia-ko:	<http://ko.dbpedia.org/resource/> .
+dbr:Karim_Benzema	owl:sameAs	dbpedia-ko:카림_벤제마 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Karim_Benzema	owl:sameAs	dbpedia-it:Karim_Benzema .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Karim_Benzema	owl:sameAs	dbpedia-pt:Karim_Benzema .
+@prefix opencyc:	<http://sw.opencyc.org/concept/> .
+dbr:Karim_Benzema	owl:sameAs	opencyc:Mx4r7WhKXZN0RFm5E3xx8L04aA .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Karim_Benzema	owl:sameAs	dbpedia-wikidata:Q1912 .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Karim_Benzema	owl:sameAs	dbpedia-eu:Karim_Benzema .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Karim_Benzema	owl:sameAs	dbpedia-de:Karim_Benzema ;
+	dbp:align	"right"@en ,
+		"left"@en ;
+	dbp:alternativeNames	"Benzema, Karim Mostafa"@en ;
+	dbp:bg	"#0055A4"@en ,
+		"gold"@en ;
+	dbp:birthDate	"1987-12-19"^^xsd:date ;
+	dbp:bordercolor	"#EF4135"@en ;
+	dbp:caps	112 ,
+		193 ,
+		20 ;
+	dbp:clubs	dbr:Olympique_Lyonnais_Reserves_and_Academy ,
+		<http://dbpedia.org/resource/Real_Madrid_C.F.> ,
+		dbr:Olympique_Lyonnais ;
+	dbp:currentclub	<http://dbpedia.org/resource/Real_Madrid_C.F.> ;
+	dbp:dateOfBirth	"1987-12-19"^^xsd:date ;
+	dbp:fg	"#FFFFFF"@en ,
+		"navy"@en ;
+	dbp:fullname	"Karim Mostafa Benzema"@en ;
+	dbp:goals	92 ,
+		15 ,
+		43 ;
+	dbp:id	"benzema-karim"@en ;
+	dbp:nationalcaps	4 ,
+		5 ,
+		9 ,
+		17 ,
+		77 ;
+	dbp:nationalgoals	5 ,
+		0 ,
+		1 ,
+		14 ,
+		25 ;
+	dbp:nationalteam	dbr:France_national_under-18_football_team ,
+		dbr:France_national_football_team ,
+		dbr:France_national_under-21_football_team ,
+		dbr:France_national_under-19_football_team ,
+		dbr:France_national_under-17_football_team ;
+	dbp:nationalyears	2004 ,
+		2005 ,
+		2006 ,
+		2007 ;
+	dbp:placeOfBirth	"Lyon, France"@en ;
+	dbp:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbp:quote	"\"Benzema deserves full credit for his transformation. He had some help from me, from his teammates and from Zizou, but he deserves the credit.\""@en ,
+		"\"It's a compliment to be compared to Zinedine Zidane, but we are different players.\""@en ;
+	dbp:shortDescription	"French footballer"@en ;
+	dbp:source	"(\u2014Benzema in 2008 after being compared to his French compatriot Zidane. )"@en ,
+		"(\u2014Jos\u00E9 Mourinho, on Benzema's successful progression in 2011. )"@en .
+@prefix ns32:	<http://dbpedia.org/datatype/> .
+dbr:Karim_Benzema	dbp:width	"30.0"^^ns32:perCent ;
+	dbp:years	2009 ,
+		2004 ;
+	dbp:youthclubs	dbr:Olympique_Lyonnais_Reserves_and_Academy ;
+	dbp:youthyears	1996 ;
+	dbp:caption	"Benzema with Real Madrid in 2015"@en ;
+	dbp:title	"France squads"@en ,
+		"Awards"@en .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Karim_Benzema	rdfs:label	"\u0643\u0631\u064A\u0645 \u0628\u0646 \u0632\u064A\u0645\u0627"@ar ,
+		"Karim Benzema"@pl ,
+		"Karim Benzema"@es ,
+		"\u30AB\u30EA\u30E0\u30FB\u30D9\u30F3\u30BC\u30DE"@ja ,
+		"Karim Benzema"@de ,
+		"\u5361\u91CC\u59C6\u00B7\u672C\u6CFD\u9A6C"@zh ,
+		"Karim Benzema"@nl ,
+		"Karim Benzema"@it ,
+		"\u0411\u0435\u043D\u0437\u0435\u043C\u0430, \u041A\u0430\u0440\u0438\u043C"@ru ,
+		"Karim Benzema"@fr ,
+		"Karim Benzema"@pt ,
+		"Karim Benzema"@en ;
+	rdfs:comment	"Karim Mostafa Benzema (en \u00E1rabe:  \u0643\u0631\u064A\u0645 \u0628\u0646\u0632\u064A\u0645\u0627; Lyon, R\u00F3dano-Alpes, Francia, 19 de diciembre de 1987) es un futbolista franco-argelino que juega de delantero en el Real Madrid Club de F\u00FAtbol de la Primera Divisi\u00F3n de Espa\u00F1a.Benzema comenz\u00F3 su carrera deportiva en las categor\u00EDas inferiores del Olympique de Lyon y debut\u00F3 con el primer equipo en 2004. En sus cinco temporadas en el club franc\u00E9s disput\u00F3 112 partidos de liga y anot\u00F3 43 goles."@es ,
+		"\u0643\u0631\u064A\u0645 \u0628\u0646\u0632\u064A\u0645\u0627 (\u0645\u0648\u0627\u0644\u064A\u062F 19 \u062F\u064A\u0633\u0645\u0628\u0631 1987) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0641\u0631\u0646\u0633\u064A \u0648\u0644\u062F \u0628\u0645\u062F\u064A\u0646\u0629 \u0644\u064A\u0648\u0646 \u0645\u0646 \u0623\u0635\u0644 \u062C\u0632\u0627\u0626\u0631\u064A \u0648\u0627\u0644\u062F\u0647 \u062D\u0627\u0641\u0638 \u0628\u0646\u0632\u064A\u0645\u0627 \u0648\u0644\u062F \u0641\u064A \u0644\u064A\u0648\u0646 \u0648\u062C\u062F\u0647 \u062F\u0627 \u0622\u064A\u0627\u062A \u0628\u0646 \u0632\u064A\u0645\u0627 \u0647\u0627\u062C\u0631 \u0645\u0646 \u0645\u062F\u064A\u0646\u0629 \u062A\u064A\u0642\u0632\u064A\u0631\u062A \u0628\u0648\u0644\u0627\u064A\u0629 \u062A\u064A\u0632\u064A \u0648\u0632\u0648 \u0627\u0644\u062C\u0632\u0627\u0626\u0631 \u0641\u064A \u062E\u0645\u0633\u064A\u0646\u064A\u0627\u062A \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0645\u0627\u0636\u064A.[\u0628\u062D\u0627\u062C\u0629 \u0644\u0645\u0635\u062F\u0631]\u064A\u0644\u0639\u0628 \u0641\u064A \u062E\u0637 \u0627\u0644\u0647\u062C\u0648\u0645 \u0641\u064A \u0646\u0627\u062F\u064A \u0631\u064A\u0627\u0644 \u0645\u062F\u0631\u064A\u062F \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A \u0648\u0643\u0630\u0644\u0643 \u0645\u0639 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u060C \u0628\u0646\u0632\u064A\u0645\u0627 \u0623\u062A\u0649 \u0645\u0646 \u0622\u0643\u0627\u062F\u064A\u0645\u064A\u0629 \u0627\u0644\u0634\u0628\u0627\u0628 \u0641\u064A \u0644\u064A\u0648\u0646 \u0648\u0628\u0639\u062F \u0630\u0644\u0643 \u0635\u0639\u062F \u0625\u0644\u0649 \u0627\u0644\u0641\u0631\u064A\u0642 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u060C \u0648\u0634\u0627\u0631\u0643 \u0641\u064A \u0643\u0623\u0633 \u0623\u0648\u0631\u0648\u0628\u0627 2008 \u0648\u0641\u0627\u0632 \u0628\u062C\u0627\u0626\u0632\u0629 \u0647\u062F\u0627\u0641 \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0641\u064A \u0645\u0648\u0633\u0645 2007-2008\u060C \u0648\u0630\u0644\u0643 \u0628\u0639\u062F \u062B\u0644\u0627\u062B\u0629 \u0645\u0648\u0627\u0633\u0645 \u0645\u0646 \u0628\u062F\u0627\u064A\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629\u060C \u0648\u0643\u0630\u0644\u0643 \u0647\u0630\u0627 \u0627\u0644\u0645\u0648\u0633\u0645 \u0643\u0627\u0646 \u064A\u0639\u062A\u0628\u0631 \u0623\u0641\u0636\u0644 \u0645\u0648\u0633\u0645 \u0644\u0647 \u0645\u0639 \u0644\u064A\u0648\u0646 \u062D\u064A\u062B \u0628\u0647 \u062D\u0642\u0642 \u0627\u0644\u0643\u062B\u064A\u0631 \u0645\u0646 \u0627\u0644\u0625\u0646\u062C\u0627\u0632\u0627\u062A \u0648\u0643\u0630\u0644\u0643 \u0648\u0642\u0639 \u0639\u0644\u0649 \u0639\u0642\u062F\u0627\u064B \u062C\u062F\u064A\u062F\u0627\u064B \u0645\u0639 \u0627\u0644\u0646\u0627\u062F\u064A \u0644\u064A\u0643\u0648\u0646 \u0648\u0627\u062D\u062F \u0645\u0646 \u0635\u0627\u062D\u0628 \u0623\u0639\u0644\u0649 \u0631\u0648\u0627\u062A\u0628 \u0644\u0627\u0639\u0628\u064A \u0643\u0631\u0629 \u0642\u062F\u0645 \u0641\u064A \u0641\u0631\u0646\u0633\u0627\u060C \u0648\u0641\u064A 1 \u064A\u0648\u0644\u064A\u0648 2009 \u0623\u064F\u0639\u0644\u0646 \u0628\u0623\u0646 \u0646\u0627\u062F\u064A \u0644\u064A\u0648\u0646 \u062A\u0648\u0635\u0644 \u0625\u0644\u0649 \u0627\u062A\u0641\u0627\u0642 \u0645\u0639 \u0646\u0627\u062F\u064A \u0631\u064A\u0627\u0644 \u0645\u062F\u0631\u064A\u062F \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A \u0645\u0646 \u0623\u062C\u0644 \u0627\u0646\u062A\u0642\u0627\u0644 \u0627\u0644\u0644\u0627\u0639\u0628 \u0628\u0646\u0632\u064A\u0645\u0627\u060C \u0648\u0635\u0641\u0642\u0629 \u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644 \u0643\u0627\u0646\u062A \u062A\u0642\u062F\u0631 \u0628\u0640 35 \u0645\u0644\u064A\u0648\u0646 \u064A\u0648\u0631\u0648 \u0645\u0639 \u0627\u062D\u062A\u0645\u0627\u0644 \u0631\u0641\u0639\u0647\u0627 \u0625\u0644\u0649 41 \u0645\u0644\u064A\u0648\u0646 \u064A\u0648\u0631\u0648 \u0641\u064A \u062D\u0627\u0644\u0629 \u062A\u062D\u0642\u064A\u0642 \u0628\u0639\u0636 \u0627\u0644\u0646\u0642\u0627\u0637 \u0627\u0644\u062A\u064A \u062A\u0645 \u062A\u062D\u062F\u064A\u062F\u0647\u0627 \u0641\u064A \u0627\u0644\u0635\u0641\u0642\u0629 \u0628\u064A\u0646 \u0627\u0644\u0637\u0631\u0641\u064A\u0646\u060C \u0648\u0641\u064A 9 \u064A\u0648\u0644\u064A\u0648 \u0628\u0646\u0632\u064A\u0645\u0627 \u0623\u0646\u0647\u0649 \u0627\u0646\u062A\u0642\u0627\u0644\u0647 \u0625\u0644\u0649 \u0631\u064A\u0627\u0644 \u0645\u062F\u0631\u064A\u062F \u0628\u0639\u062F \u0623\u0646 \u0623\u0646\u0647\u0649 \u0627\u0644\u0641\u062D\u0635 \u0627\u0644\u0637\u0628\u064A \u0648\u0648\u0642\u0639 \u0628\u0639\u0642\u062F \u064A\u0645\u062A\u062F \u0644\u0645\u062F\u0629 \u0633\u062A\u0629 \u0633\u0646\u0648\u0627\u062A."@ar ,
+		"Karim Mostafa Benzema - em \u00E1rabe \u0643\u0631\u064A\u0645 \u0628\u0646 \u0632\u064A\u0645\u0627 - (Lyon, 19 de dezembro de 1987) \u00E9 um futebolista franc\u00EAs, de origem argelina, que atua como atacante. Defende atualmente o Real Madrid."@pt ,
+		"Karim Mostafa Benzema (Arabic: \u0643\u0631\u064A\u0645 \u0628\u0646\u0632\u064A\u0645\u0627\u200E; born 19 December 1987) is a French professional footballer who plays for Spanish club Real Madrid and the France national team as a striker. He is described as an \"immensely talented striker\" who is \"strong and powerful\" and \"a potent finisher from inside the box\".Benzema was born in the city of Lyon and began his football career with local club Bron Terraillon."@en ,
+		"\u30AB\u30EA\u30E0\u30FB\u30D9\u30F3\u30BC\u30DE\uFF08Karim Mostafa Benzema, 1987\u5E7412\u670819\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u30FB\u30EA\u30E8\u30F3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002\u30EA\u30FC\u30AC\u30FB\u30A8\u30B9\u30D1\u30CB\u30E7\u30FC\u30E9\u306E\u30EC\u30A2\u30EB\u30FB\u30DE\u30C9\u30EA\u30FC\u30C9\u6240\u5C5E\u3002\u30D5\u30E9\u30F3\u30B9\u4EE3\u8868\u3002"@ja ,
+		"\u041A\u0430\u0440\u0438\u0301\u043C \u041C\u043E\u0441\u0442\u0430\u0444\u0430\u0301 \u0411\u0435\u043D\u0437\u0435\u043C\u0430\u0301 (\u0444\u0440. Karim Mostafa Benzema; \u0440\u043E\u0434. 19 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1987, \u041B\u0438\u043E\u043D, \u0424\u0440\u0430\u043D\u0446\u0438\u044F) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442 \u043A\u0430\u0431\u0438\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0420\u0435\u0430\u043B \u041C\u0430\u0434\u0440\u0438\u0434\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0424\u0440\u0430\u043D\u0446\u0438\u0438."@ru ,
+		"Karim Mostafa Benzema (* 19. Dezember 1987 in Lyon) ist ein franz\u00F6sischer Fu\u00DFballspieler. Er steht beim spanischen Rekordmeister Real Madrid in der Primera Divisi\u00F3n unter Vertrag."@de ,
+		"Karim Mostafa Benzema (ur. 19 grudnia 1987 roku w Lyonie) \u2013 francuski pi\u0142karz pochodzenia algierskiego, graj\u0105cy na pozycji napastnika. Obecnie zawodnik Realu Madryt.Benzema wyst\u0119powa\u0142 we wszystkich juniorskich zespo\u0142ach Olympique Lyon. W pierwszej dru\u017Cynie zadebiutowa\u0142 w 2005, a z ka\u017Cdym kolejnym rokiem umacnia\u0142 swoj\u0105 pozycj\u0119 w zespole. Z klubem czterokrotnie triumfowa\u0142 w Ligue 1, a w sezonie 2007\u201308 zosta\u0142 kr\u00F3lem strzelc\u00F3w rozgrywek. W lidze wyst\u0105pi\u0142 112 razy, zdobywaj\u0105c 43 bramki."@pl ,
+		"Karim Mostafa Benzema (Lyon, 19 december 1987) is een Frans voetballer van Algerijns-Kabylische afkomst die bij voorkeur als aanvaller speelt. Hij verruilde in 2009 Olympique Lyonnais voor Real Madrid. Benzema debuteerde in 2007 in het Frans voetbalelftal."@nl ,
+		"Karim Benzema, n\u00E9 le 19 d\u00E9cembre 1987 \u00E0 Lyon, est un footballeur international fran\u00E7ais \u00E9voluant au poste d'avant-centre au Real Madrid.Benzema commence sa carri\u00E8re professionnelle \u00E0 l'Olympique lyonnais, son club formateur et s'y impose comme titulaire d\u00E8s l'\u00E2ge de 19 ans. Meilleur buteur et meilleur joueur du championnat de France, il remporte la Ligue 1 et la coupe de France et est \u00E9lu meilleur jeune joueur d'Europe."@fr ;
+	foaf:name	"Karim Benzema"@en ,
+		"Benzema, Karim"@en ,
+		"Karim Mostafa Benzema"@en ;
+	foaf:homepage	<http://www.benzema.com/> ;
+	dbp:name	"Benzema, Karim"@en ,
+		"Karim Benzema"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Karim_Benzema_vs._FC_Schalke_04_(16647992937).jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbr:Karim_Benzema	dc:description	"French footballer"@en ,
+		"French footballer" ;
+	foaf:givenName	"Karim"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Karim_Benzema	foaf:isPrimaryTopicOf	wikipedia-en:Karim_Benzema ;
+	foaf:surname	"Benzema"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Karim_Benzema_vs._FC_Schalke_04_(16647992937).jpg?width=300> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Karim_Benzema	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Karim_Benzema?oldid=683562455> .
+@prefix ns37:	<http://dbpedia.org/ontology/Person/> .
+dbr:Karim_Benzema	ns37:height	"187.0"^^ns32:centimetre ;
+	dbo:abstract	"Karim Benzema, n\u00E9 le 19 d\u00E9cembre 1987 \u00E0 Lyon, est un footballeur international fran\u00E7ais \u00E9voluant au poste d'avant-centre au Real Madrid.Benzema commence sa carri\u00E8re professionnelle \u00E0 l'Olympique lyonnais, son club formateur et s'y impose comme titulaire d\u00E8s l'\u00E2ge de 19 ans. Meilleur buteur et meilleur joueur du championnat de France, il remporte la Ligue 1 et la coupe de France et est \u00E9lu meilleur jeune joueur d'Europe. Ses prestations, notamment en ligue des Champions, attirent tr\u00E8s t\u00F4t l'attention des grands clubs europ\u00E9ens, et France Football nomme le joueur dans la liste des candidats au ballon d'or \u00E0 l'issue de la saison.Apr\u00E8s cinq saisons pass\u00E9es dans le club de sa r\u00E9gion natale, il rejoint le Real Madrid en juillet 2009, \u00E0 l'\u00E2ge de 21 ans. Il s'impose progressivement comme titulaire \u00E0 la pointe du club de la capitale espagnole et devient le meilleur buteur fran\u00E7ais de l'histoire de la Liga, avant de devenir le meilleur buteur fran\u00E7ais de l'histoire du club madril\u00E8ne devant Zin\u00E9dine Zidane. \u00C0 l'issue de la saison 2013-2014, Benzema remporte la 10e ligue des champions de l'histoire du club sous les ordres de Carlo Ancelotti. Il est \u00E0 ce jour le 2e meilleur buteur fran\u00E7ais de l'histoire de la ligue des champions, derri\u00E8re Thierry Henry.  Karim Benzema honore sa premi\u00E8re s\u00E9lection en \u00E9quipe de France d\u00E8s le mois de mars 2007. Non retenu par Raymond Domenech pour la coupe du monde 2010, il devient un joueur cl\u00E9 de la s\u00E9lection sous le mandat de Laurent Blanc. Meilleur buteur en activit\u00E9 de la s\u00E9lection tricolore, il dispute la coupe du monde 2014 au Br\u00E9sil en tant que joueur le plus exp\u00E9riment\u00E9 de la s\u00E9lection men\u00E9e par Didier Deschamps, \u00E0 la suite du forfait de Franck Rib\u00E9ry."@fr ,
+		"Karim Mostafa Benzema (Arabic: \u0643\u0631\u064A\u0645 \u0628\u0646\u0632\u064A\u0645\u0627\u200E; born 19 December 1987) is a French professional footballer who plays for Spanish club Real Madrid and the France national team as a striker. He is described as an \"immensely talented striker\" who is \"strong and powerful\" and \"a potent finisher from inside the box\".Benzema was born in the city of Lyon and began his football career with local club Bron Terraillon. In 1996, he joined the biggest club in the city, Olympique Lyonnais, and subsequently came through the club's youth academy. Benzema made his professional debut in the 2004\u201305 season and appeared sporadically in his first three seasons as Lyon won three titles in that span. In the 2007\u201308 season, Benzema became a starter and had a breakthrough year scoring over 30 goals as Lyon won its seventh straight league title. For his performances, he was named the National Union of Professional Footballers (UNFP) Ligue 1 Player of the Year and named to the organization's Team of the Year. Benzema was also the league's top scorer and given the Bravo Award by Italian magazine Guerin Sportivo. After another season at Lyon, in July 2009, Benzema moved to Real Madrid in a transfer fee worth over \u20AC35 million ($50 million), and signed a six-year contract. After struggling to establish himself in his debut season with the club, in the ensuing two seasons, Benzema reached prominence, scoring 32 goals en route to helping Real Madrid win the Copa del Rey in 2011 and the 2011\u201312 edition of La Liga. He has been named French Player of the Year thrice for his performances in 2011, 2012 and 2014.Benzema is a former French youth international and has represented his nation from under-17 level onwards. Prior to playing for the senior team, he played on the under-17 team that won the 2004 UEFA European Under-17 Football Championship. Benzema made his senior international debut in March 2007 in a friendly match against Austria, scoring in a 1\u20130 win. Benzema has earned over 70 caps and represented France at three major international tournaments: the 2008 and 2012 editions of the UEFA European Football Championship and the 2014 FIFA World Cup."@en ,
+		"\u041A\u0430\u0440\u0438\u0301\u043C \u041C\u043E\u0441\u0442\u0430\u0444\u0430\u0301 \u0411\u0435\u043D\u0437\u0435\u043C\u0430\u0301 (\u0444\u0440. Karim Mostafa Benzema; \u0440\u043E\u0434. 19 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1987, \u041B\u0438\u043E\u043D, \u0424\u0440\u0430\u043D\u0446\u0438\u044F) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442 \u043A\u0430\u0431\u0438\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0420\u0435\u0430\u043B \u041C\u0430\u0434\u0440\u0438\u0434\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0424\u0440\u0430\u043D\u0446\u0438\u0438."@ru ,
+		"Karim Mostafa Benzema (Lyon, 19 december 1987) is een Frans voetballer van Algerijns-Kabylische afkomst die bij voorkeur als aanvaller speelt. Hij verruilde in 2009 Olympique Lyonnais voor Real Madrid. Benzema debuteerde in 2007 in het Frans voetbalelftal."@nl ,
+		"Karim Mostafa Benzema (* 19. Dezember 1987 in Lyon) ist ein franz\u00F6sischer Fu\u00DFballspieler. Er steht beim spanischen Rekordmeister Real Madrid in der Primera Divisi\u00F3n unter Vertrag."@de ,
+		"Karim Mostafa Benzema (en \u00E1rabe:  \u0643\u0631\u064A\u0645 \u0628\u0646\u0632\u064A\u0645\u0627; Lyon, R\u00F3dano-Alpes, Francia, 19 de diciembre de 1987) es un futbolista franco-argelino que juega de delantero en el Real Madrid Club de F\u00FAtbol de la Primera Divisi\u00F3n de Espa\u00F1a.Benzema comenz\u00F3 su carrera deportiva en las categor\u00EDas inferiores del Olympique de Lyon y debut\u00F3 con el primer equipo en 2004. En sus cinco temporadas en el club franc\u00E9s disput\u00F3 112 partidos de liga y anot\u00F3 43 goles. En la temporada 2007/08, Benzema se convirti\u00F3 en el m\u00E1ximo goleador de la Ligue 1 con 20 goles, lo que le vali\u00F3 para conseguir, tambi\u00E9n, el premio al Jugador del A\u00F1o de la liga francesa. Tras finalizar esa temporada, el futbolista franco disput\u00F3 la Eurocopa 2008 con Francia.El 1 de julio de 2009 se hizo oficial el fichaje del futbolista por el Real Madrid, que pag\u00F3 al Olympique de Lyon 35 de millones de euros, m\u00E1s la posibilidad de abonar al club de origen hasta seis millones adicionales por incentivos. El 9 de julio pas\u00F3 el reconocimiento m\u00E9dico en Madrid y firm\u00F3 un contrato por seis a\u00F1os. Reci\u00E9n nombrado mejor jugador franc\u00E9s del 2011.Benzema ha recibido m\u00FAltiples reconocimientos por su enorme calidad futbol\u00EDstica, siendo elegido como el mejor futbolista franc\u00E9s en 2011 y 2012. Nominado en cuatro ocasiones al Bal\u00F3n de Oro, ha estado entre los 22 finalistas en las tres \u00FAltimas ediciones y ostenta uno de los mejores promedios goleadores de la UEFA Champions League, siendo uno de los cuatro \u00FAnicos futbolistas, junto a Lionel Messi, Filippo Inzaghi y Ruud Van Nistelrooy, que ha marcado 30 goles en menos de 51 partidos en dicha competici\u00F3n.El 12 de abril de 2014, en el encuentro de Liga contra el UD Almer\u00EDa, se convierte en el jugador franc\u00E9s con m\u00E1s partidos oficiales en el Real Madrid (228), r\u00E9cord que hasta ese momento era propiedad de Zinedine Zidane."@es ,
+		"\u0643\u0631\u064A\u0645 \u0628\u0646\u0632\u064A\u0645\u0627 (\u0645\u0648\u0627\u0644\u064A\u062F 19 \u062F\u064A\u0633\u0645\u0628\u0631 1987) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0641\u0631\u0646\u0633\u064A \u0648\u0644\u062F \u0628\u0645\u062F\u064A\u0646\u0629 \u0644\u064A\u0648\u0646 \u0645\u0646 \u0623\u0635\u0644 \u062C\u0632\u0627\u0626\u0631\u064A \u0648\u0627\u0644\u062F\u0647 \u062D\u0627\u0641\u0638 \u0628\u0646\u0632\u064A\u0645\u0627 \u0648\u0644\u062F \u0641\u064A \u0644\u064A\u0648\u0646 \u0648\u062C\u062F\u0647 \u062F\u0627 \u0622\u064A\u0627\u062A \u0628\u0646 \u0632\u064A\u0645\u0627 \u0647\u0627\u062C\u0631 \u0645\u0646 \u0645\u062F\u064A\u0646\u0629 \u062A\u064A\u0642\u0632\u064A\u0631\u062A \u0628\u0648\u0644\u0627\u064A\u0629 \u062A\u064A\u0632\u064A \u0648\u0632\u0648 \u0627\u0644\u062C\u0632\u0627\u0626\u0631 \u0641\u064A \u062E\u0645\u0633\u064A\u0646\u064A\u0627\u062A \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0645\u0627\u0636\u064A.[\u0628\u062D\u0627\u062C\u0629 \u0644\u0645\u0635\u062F\u0631]\u064A\u0644\u0639\u0628 \u0641\u064A \u062E\u0637 \u0627\u0644\u0647\u062C\u0648\u0645 \u0641\u064A \u0646\u0627\u062F\u064A \u0631\u064A\u0627\u0644 \u0645\u062F\u0631\u064A\u062F \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A \u0648\u0643\u0630\u0644\u0643 \u0645\u0639 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u060C \u0628\u0646\u0632\u064A\u0645\u0627 \u0623\u062A\u0649 \u0645\u0646 \u0622\u0643\u0627\u062F\u064A\u0645\u064A\u0629 \u0627\u0644\u0634\u0628\u0627\u0628 \u0641\u064A \u0644\u064A\u0648\u0646 \u0648\u0628\u0639\u062F \u0630\u0644\u0643 \u0635\u0639\u062F \u0625\u0644\u0649 \u0627\u0644\u0641\u0631\u064A\u0642 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u060C \u0648\u0634\u0627\u0631\u0643 \u0641\u064A \u0643\u0623\u0633 \u0623\u0648\u0631\u0648\u0628\u0627 2008 \u0648\u0641\u0627\u0632 \u0628\u062C\u0627\u0626\u0632\u0629 \u0647\u062F\u0627\u0641 \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0641\u064A \u0645\u0648\u0633\u0645 2007-2008\u060C \u0648\u0630\u0644\u0643 \u0628\u0639\u062F \u062B\u0644\u0627\u062B\u0629 \u0645\u0648\u0627\u0633\u0645 \u0645\u0646 \u0628\u062F\u0627\u064A\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629\u060C \u0648\u0643\u0630\u0644\u0643 \u0647\u0630\u0627 \u0627\u0644\u0645\u0648\u0633\u0645 \u0643\u0627\u0646 \u064A\u0639\u062A\u0628\u0631 \u0623\u0641\u0636\u0644 \u0645\u0648\u0633\u0645 \u0644\u0647 \u0645\u0639 \u0644\u064A\u0648\u0646 \u062D\u064A\u062B \u0628\u0647 \u062D\u0642\u0642 \u0627\u0644\u0643\u062B\u064A\u0631 \u0645\u0646 \u0627\u0644\u0625\u0646\u062C\u0627\u0632\u0627\u062A \u0648\u0643\u0630\u0644\u0643 \u0648\u0642\u0639 \u0639\u0644\u0649 \u0639\u0642\u062F\u0627\u064B \u062C\u062F\u064A\u062F\u0627\u064B \u0645\u0639 \u0627\u0644\u0646\u0627\u062F\u064A \u0644\u064A\u0643\u0648\u0646 \u0648\u0627\u062D\u062F \u0645\u0646 \u0635\u0627\u062D\u0628 \u0623\u0639\u0644\u0649 \u0631\u0648\u0627\u062A\u0628 \u0644\u0627\u0639\u0628\u064A \u0643\u0631\u0629 \u0642\u062F\u0645 \u0641\u064A \u0641\u0631\u0646\u0633\u0627\u060C \u0648\u0641\u064A 1 \u064A\u0648\u0644\u064A\u0648 2009 \u0623\u064F\u0639\u0644\u0646 \u0628\u0623\u0646 \u0646\u0627\u062F\u064A \u0644\u064A\u0648\u0646 \u062A\u0648\u0635\u0644 \u0625\u0644\u0649 \u0627\u062A\u0641\u0627\u0642 \u0645\u0639 \u0646\u0627\u062F\u064A \u0631\u064A\u0627\u0644 \u0645\u062F\u0631\u064A\u062F \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A \u0645\u0646 \u0623\u062C\u0644 \u0627\u0646\u062A\u0642\u0627\u0644 \u0627\u0644\u0644\u0627\u0639\u0628 \u0628\u0646\u0632\u064A\u0645\u0627\u060C \u0648\u0635\u0641\u0642\u0629 \u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644 \u0643\u0627\u0646\u062A \u062A\u0642\u062F\u0631 \u0628\u0640 35 \u0645\u0644\u064A\u0648\u0646 \u064A\u0648\u0631\u0648 \u0645\u0639 \u0627\u062D\u062A\u0645\u0627\u0644 \u0631\u0641\u0639\u0647\u0627 \u0625\u0644\u0649 41 \u0645\u0644\u064A\u0648\u0646 \u064A\u0648\u0631\u0648 \u0641\u064A \u062D\u0627\u0644\u0629 \u062A\u062D\u0642\u064A\u0642 \u0628\u0639\u0636 \u0627\u0644\u0646\u0642\u0627\u0637 \u0627\u0644\u062A\u064A \u062A\u0645 \u062A\u062D\u062F\u064A\u062F\u0647\u0627 \u0641\u064A \u0627\u0644\u0635\u0641\u0642\u0629 \u0628\u064A\u0646 \u0627\u0644\u0637\u0631\u0641\u064A\u0646\u060C \u0648\u0641\u064A 9 \u064A\u0648\u0644\u064A\u0648 \u0628\u0646\u0632\u064A\u0645\u0627 \u0623\u0646\u0647\u0649 \u0627\u0646\u062A\u0642\u0627\u0644\u0647 \u0625\u0644\u0649 \u0631\u064A\u0627\u0644 \u0645\u062F\u0631\u064A\u062F \u0628\u0639\u062F \u0623\u0646 \u0623\u0646\u0647\u0649 \u0627\u0644\u0641\u062D\u0635 \u0627\u0644\u0637\u0628\u064A \u0648\u0648\u0642\u0639 \u0628\u0639\u0642\u062F \u064A\u0645\u062A\u062F \u0644\u0645\u062F\u0629 \u0633\u062A\u0629 \u0633\u0646\u0648\u0627\u062A."@ar ,
+		"\u30AB\u30EA\u30E0\u30FB\u30D9\u30F3\u30BC\u30DE\uFF08Karim Mostafa Benzema, 1987\u5E7412\u670819\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u30FB\u30EA\u30E8\u30F3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002\u30EA\u30FC\u30AC\u30FB\u30A8\u30B9\u30D1\u30CB\u30E7\u30FC\u30E9\u306E\u30EC\u30A2\u30EB\u30FB\u30DE\u30C9\u30EA\u30FC\u30C9\u6240\u5C5E\u3002\u30D5\u30E9\u30F3\u30B9\u4EE3\u8868\u3002"@ja ,
+		"Karim Mostafa Benzema (ur. 19 grudnia 1987 roku w Lyonie) \u2013 francuski pi\u0142karz pochodzenia algierskiego, graj\u0105cy na pozycji napastnika. Obecnie zawodnik Realu Madryt.Benzema wyst\u0119powa\u0142 we wszystkich juniorskich zespo\u0142ach Olympique Lyon. W pierwszej dru\u017Cynie zadebiutowa\u0142 w 2005, a z ka\u017Cdym kolejnym rokiem umacnia\u0142 swoj\u0105 pozycj\u0119 w zespole. Z klubem czterokrotnie triumfowa\u0142 w Ligue 1, a w sezonie 2007\u201308 zosta\u0142 kr\u00F3lem strzelc\u00F3w rozgrywek. W lidze wyst\u0105pi\u0142 112 razy, zdobywaj\u0105c 43 bramki. W 2009 roku za sum\u0119 35 milion\u00F3w euro przeszed\u0142 do Realu Madryt.Pierwsze kroki w reprezentacji Francji stawia\u0142 w dru\u017Cynach m\u0142odzie\u017Cowych. W 2004 roku zdoby\u0142 z zespo\u0142em U-17 Juniorskie Mistrzostwo Europy. W doros\u0142ej kadrze zadebiutowa\u0142 w 2007 roku. Z reprezentacj\u0105 wyst\u0105pi\u0142 na Mistrzostwach Europy 2008."@pl ,
+		"Karim Mostafa Benzema - em \u00E1rabe \u0643\u0631\u064A\u0645 \u0628\u0646 \u0632\u064A\u0645\u0627 - (Lyon, 19 de dezembro de 1987) \u00E9 um futebolista franc\u00EAs, de origem argelina, que atua como atacante. Defende atualmente o Real Madrid."@pt ;
+	dbo:alias	"Benzema, Karim Mostafa"@en ;
+	dbo:birthYear	"1987"^^xsd:gYear ;
+	dbo:careerStation	dbr:Karim_Benzema__3 ,
+		dbr:Karim_Benzema__4 ,
+		dbr:Karim_Benzema__1 ,
+		dbr:Karim_Benzema__2 ,
+		dbr:Karim_Benzema__7 ,
+		dbr:Karim_Benzema__5 ,
+		dbr:Karim_Benzema__6 ;
+	dbo:height	1.8700000000000001066 ;
+	dbo:number	"9" ;
+	dbo:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbo:team	dbr:France_national_under-19_football_team ,
+		<http://dbpedia.org/resource/Real_Madrid_C.F.> ,
+		dbr:Olympique_Lyonnais ,
+		dbr:France_national_under-17_football_team ,
+		dbr:Olympique_Lyonnais_Reserves_and_Academy ,
+		dbr:France_national_under-18_football_team ;
+	dbp:clubnumber	9 ;
+	dbp:ntupdate	"2015-03-26"^^xsd:date ;
+	dbp:pcupdate	"--09-26"^^xsd:gMonthDay .
+@prefix ns38:	<http://purl.org/voc/vrank#> .
+dbr:Karim_Benzema	ns38:hasRank	_:b26887544 .
+_:b26887544	ns38:rankValue	"4.1303839683532714844"^^xsd:float .
